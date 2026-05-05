@@ -1,6 +1,6 @@
 # Hi, and welcome!
 
-![Yoav and Lisa in Yosemite National Park](https://d12i0l4ao6pqrj.cloudfront.net/img/YoavLisaYosemite.webp)
+![Yoav and Lisa in Yosemite National Park](/images/YoavLisaYosemite.webp)
 
 I'm a technology leader, serial entrepreneur, advisor, and investor.
 
